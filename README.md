@@ -3,6 +3,9 @@
 - 본 연구는 OpenAI Gym의 Car_Racing-v2환경에서 Stable_baselines3의 DQN, PPO 알고리즘으로 학습된 자율주행 agent와 사람이 키보드로 조작한 agent를 구분하는 것을 목표로 함
 - 현재 연구에선 PPO, DQN, Keyboard agent를 각각 예측하는 모델의 성능이 76% 정도의 accuracy가 나옴
 
+##CarRacing_Video
+<
+
 ### Required Libraries
 
 - gym
