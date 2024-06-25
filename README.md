@@ -4,7 +4,7 @@
 - 현재 연구에선 PPO, DQN, Keyboard agent를 각각 예측하는 모델의 성능이 76% 정도의 accuracy가 나옴
 
 ## CarRacing_Video
-<img width="80%" src="https://github.com/DoHyeonCheol/CarRacing-v2/assets/108172386/e1eb47ac-8118-4ec6-bba0-6271d9b4f037.gif"/>
+<img width="80%" src="https://github.com/DoHyeonCheol/CarRacing-v2/assets/108172386/e1eb47ac-8118-4ec6-bba0-6271d9b4f037"/>
 
 ### Required Libraries
 
