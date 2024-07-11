@@ -94,6 +94,6 @@ PPO VS DQN
   결과는 GRU가 가장 좋은 성능을 가졌으며, 다음으로는 LSTM, CNN, ConvLSTM 순으로 좋은 성능을 보였으며,
   Transformer는 학습이 안되는 문제가 있기에 수정이 필요할 것으로 보임
 
-
 - DataClassification 수정
-  전체적인 모델들을 수정하여 Transformer 모델도 성능이 나오게 되었으며 Classification_edit 폴더에 수정된 코드가 있으며 result에 그래프들을 올려놓았음
+  
+  전체적인 모델들을 수정하여 Transformer 모델도 성능이 나오게 되었으며 DataClassification_edit 폴더에 수정된 코드가 있으며 result에 그래프들을 올려놓았음
