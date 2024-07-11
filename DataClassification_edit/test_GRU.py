@@ -30,9 +30,9 @@ def build_gru_model(input_shape):
 # 메인 코드
 if __name__ == "__main__":
     # 데이터 로딩
-    dqn_data = load_file('C:/Users/Dohc/PycharmProjects/test/Real/data/DQN.txt')
-    ppo_data = load_file('C:/Users/Dohc/PycharmProjects/test/Real/data/PPO.txt')
-    keyboard_data = load_file('C:/Users/Dohc/PycharmProjects/test/Real/data/keyboard.txt')
+    dqn_data = load_file('경로')
+    ppo_data = load_file('경로')
+    keyboard_data = load_file('경로')
 
     # 레이블 생성
     dqn_labels = np.zeros(len(dqn_data))
